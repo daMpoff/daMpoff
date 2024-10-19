@@ -48,8 +48,8 @@
 
 ---
 
-## 🏆 Соревнования / Competitions
-<p align="center">
+## 🏆 Соревнования / Competitions **Click**
+<p>
   <a href="https://codeforces.com/profile/ProjectOne" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
   </a>
@@ -72,8 +72,5 @@
 <p align="center">
   <a href="https://t.me/daMpleto" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:example@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
