@@ -74,3 +74,5 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=daMpoff)](https://github.com/ryo-ma/github-profile-trophy)
