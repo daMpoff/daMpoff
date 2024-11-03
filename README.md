@@ -78,12 +78,10 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%2030%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-89-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-135-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.3%20thousand%20lines%20of%20code-blue)
 
 
- Last Updated on 27/10/2024 00:43:19 UTC
+ Last Updated on 03/11/2024 00:43:34 UTC
 <!--END_SECTION:waka-->
