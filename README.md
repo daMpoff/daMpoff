@@ -78,10 +78,10 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.5%20thousand%20lines%20of%20code-blue)
 
 
- Last Updated on 05/01/2025 00:44:18 UTC
+ Last Updated on 12/01/2025 00:44:58 UTC
 <!--END_SECTION:waka-->
