@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center" style="text-align:center;">
-  I'm 20, student in BSTU 👨‍💻
+  I'm 20, student in BSTU, Android-developer 👨‍💻
 </h3>
 
 <p align="center">
