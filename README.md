@@ -55,6 +55,14 @@
   </a>
 </p>
 
+TCGP 2021 - 2 Place
+Брянский VI чемпионат по программированию - Shadow Place - Разработка поисковой системы на Python
+Брянский VII чемпионат по программированию - Shadow Place - Разработка сервиса совместных поездок на языке Java
+Брянский VIII чемпионат по программированию -  Disqualified - Разработка системы доставки готовых изделий на ASP.NET
+ITCUBE Bryansk CS GO Cup -  Winner
+ITCUBE Bryansk Dota 2 Cup - Coach - Winner
+ITCUBE IT Secure -  3 place
+
 [![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/daMpik)
 
 ---
