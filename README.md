@@ -86,10 +86,10 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-57.2%20thousand%20lines%20of%20code-blue)
 
 
- Last Updated on 25/05/2025 00:53:07 UTC
+ Last Updated on 01/06/2025 00:59:00 UTC
 <!--END_SECTION:waka-->
