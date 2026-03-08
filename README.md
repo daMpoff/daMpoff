@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello, I am <a href="https://t.me/daMpleto" target="_blank">Daniil</a> 
+  Hello, I am <a target="_blank">Daniil</a>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" style="vertical-align:middle;" alt="Привет" />
 </h1>
 
