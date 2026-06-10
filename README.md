@@ -70,13 +70,6 @@
 
 ---
 
-## 📫 Как связаться со мной / How to reach me
-<p align="center">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</p>
-
 <!--START_SECTION:waka-->
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.03%20million%20lines%20of%20code-blue?style=flat)
